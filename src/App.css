@@ -1,5 +1,5 @@
 *{
- font-size: 13px;
+  font-size: 13px;
 }
 
 .flex-row{
@@ -72,7 +72,7 @@
 
 .main-Content_header-Name,
 .main-Content_header-List{
-    width: 100%;
+  width: 100%;
 }
 
 .main-Content_header-List{
@@ -89,7 +89,6 @@
 }
 
 .content{
-  padding:0 1rem;
   width:100%;
 }
 
@@ -102,7 +101,8 @@
   height: 75vh;
   width: 100%;
   border:3px dashed gray;
-  border-radius:2rem;
+  border-radius:1rem;
+  padding:0.5rem;
 
 }
 
